@@ -21,7 +21,7 @@ const config = {
 client.login(config.token)
 
 client.on("ready",()=>{
-    console.log(`BOT ${client.user.tag} Has now been launched!! 🚀 Coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#0002`)
+    console.log(`BOT ${client.user.tag} Has now been launched!! 🚀 Coded by VINCENT 444#8079`)
     client.user.setActivity("MINIGAMES", {type:"COMPETING"})
 })
 
